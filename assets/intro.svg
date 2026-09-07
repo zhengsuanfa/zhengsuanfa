@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Neo — 李国正 / 正算法</title>
+<desc id="desc">Developer, founder, lifelong builder. Turning ideas into things you can use.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d34"/><stop offset="1" stop-color="#080e1a"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#2563eb" stop-opacity=".22"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7493c5" stroke-opacity=".08"/></pattern>
+ <clipPath id="typed"><rect x="48" y="192" width="840" height="40"><animate attributeName="width" values="0;840;840" keyTimes="0;.45;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="1000" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1000" height="360" rx="20" fill="url(#grid)"/>
+<ellipse cx="820" cy="190" rx="300" ry="260" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="999" height="359" rx="20" fill="none" stroke="#27374f"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+ <circle cx="36" cy="30" r="5" fill="#fb7185"/><circle cx="56" cy="30" r="5" fill="#fbbf24"/><circle cx="76" cy="30" r="5" fill="#34d399"/>
+ <text x="104" y="35" font-size="12" fill="#889bb8">zhengsuanfa / README.md</text>
+ <text x="950" y="35" text-anchor="end" font-size="11" fill="#70d9cd">PERSONAL PORTFOLIO</text>
+ <path d="M24 54H976" stroke="#27374f"/>
+ <text x="48" y="103" font-size="14" letter-spacing="3" fill="#67e8f9">HELLO, WORLD. I'M</text>
+ <text x="44" y="174" font-size="68" font-weight="700" fill="#f0f6ff">Neo<tspan fill="url(#accent)">.</tspan></text>
+ <text x="234" y="169" font-size="27" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">李国正 / 正算法</text>
+ <text x="48" y="220" clip-path="url(#typed)" font-size="23" fill="url(#accent)">&gt; Turning ideas into things you can use.</text>
+ <text x="48" y="270" font-size="14" fill="#9db0ce">DEVELOPER <tspan fill="#435778">/</tspan> FOUNDER <tspan fill="#435778">/</tspan> LIFELONG BUILDER</text>
+ <path d="M48 301H952" stroke="#27374f"/>
+ <text x="48" y="330" font-size="12" fill="#8398b8">CODE · PRODUCTS · PERSONAL AI</text>
+ <text x="952" y="330" text-anchor="end" font-size="12" fill="#8398b8">Stay hungry. Stay foolish.</text>
+</g>
+<g transform="translate(833 150)" fill="none" stroke="#67e8f9">
+ <circle r="60" stroke-opacity=".15"/><ellipse rx="60" ry="22" transform="rotate(-35)" stroke-opacity=".55"/><ellipse rx="60" ry="22" transform="rotate(35)" stroke-opacity=".3"/>
+ <circle r="9" fill="#67e8f9" stroke="none"/><circle cx="49" cy="-30" r="4" fill="#a5b4fc" stroke="none"><animate attributeName="opacity" values=".3;1;.3" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+</svg>

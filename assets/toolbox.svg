@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title">
+<title id="title">Toolbox: TypeScript, JavaScript, Python, React, Next.js, Tailwind CSS, FastAPI, PostgreSQL, Git</title>
+<rect x=".5" y=".5" width="999" height="209" rx="14" fill="#0d1626" stroke="#27374f"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+<g fill="#67e8f9" font-size="12" letter-spacing="2"><text x="32" y="38">01 / LANGUAGES</text><text x="370" y="38">02 / WEB &amp; APPS</text><text x="710" y="38">03 / BACKEND &amp; TOOLS</text></g>
+<g stroke="#27374f"><path d="M338 28V183"/><path d="M676 28V183"/></g>
+<g fill="#e2e8f0" font-size="23"><text x="32" y="85">TypeScript</text><text x="32" y="129">JavaScript</text><text x="32" y="173">Python</text><text x="370" y="85">React</text><text x="370" y="129">Next.js</text><text x="370" y="173">Tailwind CSS</text><text x="710" y="85">FastAPI</text><text x="710" y="129">PostgreSQL</text><text x="710" y="173">Git</text></g>
+</g></svg>
